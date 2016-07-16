@@ -1,0 +1,26 @@
+{
+  "name": "learnnode",
+  "version": "1.0.0",
+  "description": "learnnode",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijayvirmarwaha/learnnode.git"
+  },
+  "keywords": [
+    "learnnode"
+  ],
+  "author": "vijayvir.marwaha@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijayvirmarwaha/learnnode/issues"
+  },
+  "homepage": "https://github.com/vijayvirmarwaha/learnnode#readme"
+}
